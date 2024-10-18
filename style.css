@@ -1,0 +1,444 @@
+
+.img1{
+    height: 80px;
+    width: 80px;
+}
+
+.search{
+border: 1px solid transparent;
+width: 400px;
+}
+.navbar{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    color:gray;
+    border: 1px solid transparent;
+}
+.searchbar{
+    border: 1px solid #878787;
+    height: 40px;
+    width: 625px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 5px;
+}
+.iconstore{
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    width: 380px;
+    justify-content: space-around;
+
+}
+.cendar{
+    border: 1px solid transparent;
+    border: 1px solid transparent;
+    height: 100px;
+    width: 107px;
+    padding-left: 55px;
+}
+
+.cendar::placeholder {
+    color: #ff0000;         /* Change the color of the placeholder text */
+    font-size: 14px;     /* Change the font size */
+    font-style: italic;  /* Make the placeholder text italic */
+}
+.navbar1{
+    padding-top: 2px;
+   
+    padding-left: 75px;
+    margin-top: 50px;
+    border: 1px solid transparent;
+    display: flex;
+    justify-content: space-evenly;
+    display: inline-flex;
+    flex-wrap: wrap;
+}
+
+  .searchfood{
+    border: 1px solid transparent;
+    font-size: 15px;
+  } 
+  .title{
+    display: flex;
+    gap: 60px;
+    font-size: 15px;
+}
+.box{
+    padding-top: 25px;
+    padding-left: 75px;
+    font-size: 16px;
+}
+
+.img{
+    background-image: url(./Screenshot\ .png);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-size: 101% ;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: end;
+}
+
+
+.zero{
+   
+    font-size: 135px;
+    padding-right: 44px;
+    color: #915912;
+    display: flex;
+    align-items: center;
+   
+   
+}
+    
+
+.zero1{
+    display: flex;   
+flex-direction: column;
+ 
+    color: #915912;
+    width: 50%;
+    align-items: center;
+    gap: 5px;
+}
+.heading{
+ 
+    width: 20%;
+    font-size: 20px;   
+    color: maroon;   
+    font-weight: 600;
+}
+
+.heading1{
+  
+    
+    font-size: 20px;   
+    color: maroon;   
+    font-weight: 600;
+}
+.gifts{
+    margin-top: -7px;
+    font-size: 38px;
+    font-style: italic;
+   
+}
+
+.diamond{
+  font-size: 46px;
+}
+.diamond2{
+font-size: 30px;
+}
+.shop2{
+    
+    margin-top: 10px;
+    border-radius: 6px;
+    font-size: 20px;
+    height: 35px;
+    width: 170px;
+    background-color: #0000ff00;
+}
+.cardimg{
+    height: 130px;
+    width: 80%;
+    display: flex;
+    background-color: gray;
+    
+    margin-left: 30px;
+}
+.img4{
+
+    height: 100px;
+    width: 100%;
+    border-radius: 11px;
+}
+
+.card{
+    display: flex;
+    display: flex;
+    gap: 15px;
+    justify-content: space-evenly;
+    border-radius: 5px;
+    margin-top: 60px
+}.line{
+    
+    padding-left: 16px;
+    font-size: 16px;
+}
+.colar1{
+    color: #ff0000;
+}
+.title1{
+    font-size: 15px;
+}
+.card2{
+    height: 300px;
+    margin-left: 170px;
+}
+.subcard{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 45px;
+}
+
+
+.card3{
+   
+    height: 300px;
+    margin-right: 136px;
+}  
+.text{
+    padding-left: 520px;
+    font-size: 35px;
+    margin: 10px;
+    font-weight: initial;
+} 
+.G{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    font-size: 35px;
+}
+
+.bgimg{
+    background-image: url(./images/download\ \(1\).jfif);
+    height: 70vh;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.Gold{
+    height: 300px;
+    width: 90%;
+    height: 280px;
+    width: 100%;
+}
+
+
+    .va{
+        text-decoration: line-through;
+        color: grey;
+    }
+
+.yellow{
+    width: 240px;
+    height: 47px;
+}
+.puregold{
+    display: flex;
+    
+    gap: 10px;
+}
+
+
+
+.some{
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 12px;
+}
+.maa{
+    color: grey;
+    font-size: 20px;
+} 
+.m{
+font-size: 20px;
+}
+.ns{
+    border: 1px solid;
+    border: 1px solid;
+    height: 35px;
+    width: 70%;
+    background-color: #ffc0cb94;
+    border-radius: 7px;
+    font-size: 20px
+}
+.mar{
+    padding-left: 614px;
+    font-size: 25px;
+    font-weight: bold;
+}
+.gender{
+    height: 50vh;
+    display: flex;
+    gap: 30px;
+    margin-left: 100px;
+}
+.men{
+    background-color: #ffc0cb7d;
+    height: 50vh;
+    border: 5px solid pink;
+    width: 46%;
+    border-radius: 90px;
+    display: flex;
+}
+.men2{
+    height: 255px;
+   
+    position: absolute;
+}
+
+.him1{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+    color: red;
+    width: 40%;
+    margin-top: 50px;
+    font-weight: 700;
+}
+
+.him2{
+    justify-content: center;
+    display: flex;
+    width: 47%;
+    margin-top: 25px;
+}
+.her1{
+    height: 300px;
+
+}
+.her2{
+    font-size: 60px;
+    text-align: center;
+
+    width: 40%;
+    
+    font-weight: 700;
+ 
+}
+.divas{
+    position: absolute;
+    margin-top: 14px;
+    margin-left: 12px;
+}
+.yellow2{
+    height: 47px;
+}
+.divas1{
+    height: 300px;
+    width: 90%;
+}
+.divaspack{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 15px;
+    margin-top: 70px;
+}
+.banar{
+    height: 420px;
+    width: 100%;
+    margin-top: 70px;
+}
+.Guide1{
+    font-size: 35px;
+    font-weight: 500;
+    font-size: 35px;
+    font-weight: 500;
+    padding-left: 560px;
+    margin-top: 15px;
+}
+.sister{
+    height: 250px;
+
+}
+.GiftingGuide{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.GiftingGuide1{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.backgrountbanar{
+    background-image: url(./images/kkk.jfif);
+    height:500px ;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 145px;
+}
+
+.sir{
+    font-size: 20px;
+    padding-left: 115px;
+    line-height: 60px;
+}
+.sir1{
+    font-size: 20px;
+    
+    padding-left: 115px;
+    line-height: 60px;
+}  
+.sir2{
+    
+    line-height: 3;
+    font-size: 20px;
+} 
+.font{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+}
+.font1{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+}
+.font2{
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+}
+.exclusive{
+font-size: 20px;
+    padding-left: 125px;
+    font-weight: 600;
+}
+.email{
+    margin-left: 130px;
+    height: 55px;
+    width: 25%;
+    margin-top: 10px;
+    border: 1px solid;
+}
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
